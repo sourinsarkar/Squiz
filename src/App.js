@@ -1,7 +1,9 @@
+import Navbar from "./conponents/Navbar";
+
 function App() {
   return (
     <div>
-      Hey Sourin
+      <Navbar />
     </div>
   );
 }
